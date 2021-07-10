@@ -4,7 +4,7 @@
 
 This repository stores the **solvahol** organization's [default community health files].
 
-For exmaple, the CONTRIBUTING.md here will be presented for each [repository under github.com/solvahol] that doesn't have its own contribution guide. 
+For exmaple, the SUPPORT.md here will be presented for each [repository under github.com/solvahol] that doesn't have its own SUPPORT.md. 
 
 Got feedback? Please [share it]!
 
